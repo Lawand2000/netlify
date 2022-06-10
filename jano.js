@@ -1909,7 +1909,7 @@ jano100.on("ready", () => {
 
 jano.login("OTM0MDUwNDgyNDc1OTAwOTc4.YeqdUA.w-BLGG_1gcvB5Df1Z9LdGiPN_2Y");
 jano2.login("OTM0MDUzNDc1MTU3OTM4MTg3.Yeqfqw.aKZVpQnl-66rqU8ShbzKKy8SgUc");
-jano3.login("");
+jano3.login("OTQxMDgxNTQzMzAzMTI3MDYw.YgQxww.wtdGW4ixEVQyWjOcZ6_0HnUFspc");
 jano4.login("");
 jano5.login("");
 jano6.login("");
